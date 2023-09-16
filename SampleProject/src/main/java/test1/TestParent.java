@@ -2,7 +2,7 @@ package test1;
 
 public class TestParent {
 	public void parent() {
-		System.out.println("Hello World");
+		System.out.println("Hello World ***");
 	}
 
 	public static void main(String[] args) {
